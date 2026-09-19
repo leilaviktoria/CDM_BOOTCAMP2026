@@ -23,7 +23,7 @@ pinout:
   ui[4]: "IN4"
   ui[5]: "IN5"
   ui[6]: "IN6"
-  ui[7]: "IN6"
+  ui[7]: "IN7"
 
   # Outputs
   uo[0]: ""
